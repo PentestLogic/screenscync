@@ -2,10 +2,10 @@
 Social movie &amp; TV tracking app powered by Trakt.tv and TMDB.
 # screenScync 
 
-ScreenScync is a social app that lets users share what movies and TV shows they’re watching — automatically synced using [Trakt.tv](https://trakt.tv) and [TMDB](https://www.themoviedb.org/).  
+ScreenScync is a social app that lets users share what movies and TV shows they’re watching  automatically synced using [Trakt.tv](https://trakt.tv) and [TMDB](https://www.themoviedb.org/).  
 It’s built for friends who love keeping up with each other’s screen time, binge sessions, and recommendations.
 
----
+
 
 Features
 
